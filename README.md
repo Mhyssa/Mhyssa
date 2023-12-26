@@ -19,21 +19,22 @@ Depuis 2022, j'exerce en tant que freelance. Parallèlement, j'ai obtenu l'habil
 📆 2018 - 2019\
 📆 avr/2023 - oct/2023\
 📍 **AFPA** - Amiens, France
-```Environnement technique:
-Langages : Javascript, PHP, Java, J2EE
-Bases de données : MySQL/MariaDB
-Modélisation : Merise, UML
-Outils de développement : Visual Studio, HeidiSQL
-Gestion de versions : Git
-Web : HTML5, CSS3, Bootstrap, Javascript, AJAX, JQuery, VueJS
-Framework MVC : CodeIgniter, Spring
-Mobile : jQuery Mobile, Cordova, JDK Android
-Tests unitaires: JUnit
-```
+<img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" />
+
+
+
 ## Expériences pro
 
 - :fireworks::computer: **Jury d'examen DWWM et CDA**\
-📆 2022 - 2024\
+📆 2022 - aujourd'hui\
 📍 **MJ Dev** - Partout en France
 
 - :fireworks::computer: **Formatrice Développement WEB**\
@@ -46,12 +47,12 @@ Tests unitaires: JUnit
 
 - :fireworks::computer: **Développeuse Full Stack**\
 📆 2019 - 2021\
-📆 lesbavardes.org
+🚀 lesbavardes.org
 📍 **Les Bavardes** - Amiens, France
 
 - :fireworks::computer: **Développeuse Front End**\
 📆 2020 - 2021\
-📆 fiertesamiens.fr
+🚀 fiertesamiens.fr
 📍 **GROUPE D'APPUI ET DE SOLIDARITE** - Amiens, France
 
 - :fireworks::computer: **Analyste programmeur**\
