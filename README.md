@@ -12,24 +12,18 @@ Depuis 2022, j'exerce en tant que freelance. Parallèlement, j'ai obtenu l'habil
 
 - 📖 **FPA - Formateur Professionnel d'Adultes**\
 📆 avr/2023 - oct/2023\
-📆 avr/2023 - oct/2023\
+📐 Titre professionnel de niveau 5 (bac +2)\
 📍 **AFPA** - Amiens, France
 
 - 📖 **CDA - Concepteur Développeur d'Application**\
 📆 2018 - 2019\
-📆 avr/2023 - oct/2023\
+📐 Titre professionnel de niveau 6 (bac +3/+4)\
 📍 **AFPA** - Amiens, France
-<img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 <img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" />
-
-
 
 ## Expériences pro
 
@@ -49,11 +43,16 @@ Depuis 2022, j'exerce en tant que freelance. Parallèlement, j'ai obtenu l'habil
 📆 2019 - 2021\
 🚀 lesbavardes.org
 📍 **Les Bavardes** - Amiens, France
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 
 - :fireworks::computer: **Développeuse Front End**\
 📆 2020 - 2021\
 🚀 fiertesamiens.fr
 📍 **GROUPE D'APPUI ET DE SOLIDARITE** - Amiens, France
+<img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 - :fireworks::computer: **Analyste programmeur**\
 📆 avr/2019 - jun/2019\
