@@ -4,6 +4,93 @@
 Je suis Marion JOLY, développeuse diplômée depuis 2019. Puis formatrice Web, j'ai eu le privilège de partager mes connaissances avec des centaines de stagiaires, les guidant à travers le monde du web. Ma passion pour la création d'applications web s'est enrichie de compétences variées grâce à mon engagement bénévole auprès d'associations.
 
 Depuis 2022, j'exerce en tant que freelance. Parallèlement, j'ai obtenu l'habilitation du ministère du Travail en tant que jury professionnel d'examen pour les formations DWWM et CDA.
+<details>
+  <summary>📃 Voir mon CV</summary>
+
+
+## Formation
+
+- 📖 **Formateur Professionnel d'Adultes**\
+📆 avr/2023 - oct/2023\
+📍 **AFPA** - Amiens, France
+
+- 📖 **Concepteur Développeur d'Application**\
+📆 2018 - 2019\
+📍 **AFPA** - Amiens, France
+```Environnement technique:
+Langages : Javascript, PHP, Java, J2EE
+Bases de données : MySQL/MariaDB
+Modélisation : Merise, UML
+Outils de développement : Visual Studio, HeidiSQL
+Gestion de versions : Git
+Web : HTML5, CSS3, Bootstrap, Javascript, AJAX, JQuery, VueJS
+Framework MVC : CodeIgniter, Spring
+Mobile : jQuery Mobile, Cordova, JDK Android
+Tests unitaires: JUnit
+```
+## Expériences pro
+
+
+
+- 👨‍💻 **Cross Mobile Developer**\
+📆 2023 - moment\
+📍 **AB InBev** - Campinas/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Cross Mobile Developer**\
+📆 2021 - 2023\
+📍 **Xp Inc** - São Paulo/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Cross Mobile Developer**\
+📆 2021 - oct/2021\
+📍 **Avanade** - São Paulo/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+
+
+- 👨‍💻 **Cross Mobile Developer**\
+📆 2021 - jun/2021\
+📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+
+<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **CIO and Cross Mobile Developer**\
+📆 2016 - 2021\
+📍 **Infinitus Solutions** - Curitiba/PR, Brazil
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+- 👨‍💻 **Systems Analyst and Front End Developer**\
+📆 2015 - 2016\
+📍 **Web Works** - Presidente Prudente/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+
+
+- 👨‍💻 **Office Assistant**\
+📆 2011 - 2015\
+📍 **Energisa** - Presidente Prudente/SP, Brazil
+
+</details>
 
 ## 🚀 Technologies et Outils
 
