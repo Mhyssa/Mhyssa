@@ -12,6 +12,7 @@ Je suis [Ton Nom], une développeuse diplômée en tant que Concepteur Développ
 
 ### Frameworks
 - Symfony
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Base de données
 - MySQL
