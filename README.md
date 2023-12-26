@@ -10,12 +10,14 @@ Depuis 2022, j'exerce en tant que freelance. Parallèlement, j'ai obtenu l'habil
 
 ## Formation
 
-- 📖 **Formateur Professionnel d'Adultes**\
+- 📖 **FPA - Formateur Professionnel d'Adultes**\
+📆 avr/2023 - oct/2023\
 📆 avr/2023 - oct/2023\
 📍 **AFPA** - Amiens, France
 
-- 📖 **Concepteur Développeur d'Application**\
+- 📖 **CDA - Concepteur Développeur d'Application**\
 📆 2018 - 2019\
+📆 avr/2023 - oct/2023\
 📍 **AFPA** - Amiens, France
 ```Environnement technique:
 Langages : Javascript, PHP, Java, J2EE
@@ -41,6 +43,20 @@ Tests unitaires: JUnit
 - :fireworks::computer: **Formatrice "CléA Numérique"**\
 📆 2021 - 2022\
 📍 **AFPA** - Hauts-de-France, France
+
+- :fireworks::computer: **Développeuse Full Stack**\
+📆 2019 - 2021\
+📆 lesbavardes.org
+📍 **Les Bavardes** - Amiens, France
+
+- :fireworks::computer: **Développeuse Front End**\
+📆 2020 - 2021\
+📆 fiertesamiens.fr
+📍 **GROUPE D'APPUI ET DE SOLIDARITE** - Amiens, France
+
+- :fireworks::computer: **Analyste programmeur**\
+📆 avr/2019 - jun/2019\
+📍 **CGI** - Amiens, France
 
 
 </details>
