@@ -40,6 +40,8 @@ N'hésitez pas à explorer mes projets pour en savoir plus sur mes compétences 
 
 Happy coding! 🚀
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhyssa&theme=one_dark_pro&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyssa&langs_count=6&layout=donut&size_weight=1&count_weight=1)
 <!--
 **Mhyssa/Mhyssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
