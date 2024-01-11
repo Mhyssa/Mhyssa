@@ -1,9 +1,11 @@
 # Bienvenue sur mon profil GitHub 👋
 
 
-Je suis **Marion JOLY**, développeuse diplômée depuis 2019. Puis formatrice Web, j'ai eu le privilège de partager mes connaissances avec des centaines de stagiaires, les guidant à travers le monde du web. Ma passion pour la création d'applications web s'est enrichie de compétences variées grâce à mon engagement bénévole auprès d'associations.
+Je suis **Marion JOLY**, développeuse diplômée depuis 2019. 
+Puis **formatrice Web**, j'ai eu le privilège de partager mes connaissances avec des centaines de stagiaires, les guidant à travers le monde du web. 
+Ma passion pour la création d'applications web s'est enrichie de compétences variées grâce à mon engagement bénévole auprès d'associations.
 
-Depuis 2022, j'exerce en tant que freelance. Parallèlement, j'ai obtenu l'habilitation du ministère du Travail en tant que jury professionnel d'examen pour les formations DWWM et CDA.
+Depuis 2022, j'exerce en tant que freelance. Parallèlement, j'ai obtenu l'habilitation du ministère du Travail en tant que **jury professionnel** d'examen pour les formations DWWM et CDA.
 <details>
   <summary>📃 Voir mon CV</summary>
 
